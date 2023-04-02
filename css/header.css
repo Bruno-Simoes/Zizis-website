@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-image: url(../assets/img/home.png);
+    height: 177px;
+}
+
+img {
+    height: 135px;
+    width: 241px;
+    margin-top: 21px;
+    margin-bottom: 21px;
+}
