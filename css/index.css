@@ -1,1 +1,53 @@
+h2 {
+    font-family: 'Leckerli One';
+    font-weight: 400;
+    font-size: 24px;
+}
+
+p {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.home {
+    display: flex;
+}
+
+.blog {
+    background: #E0E1E9;
+    width: 1034px;
+}
+
+.post {
+    display: flex;
+}
+
+.blog_title {
+    margin: 0;
+
+}
+
+.text {
+    text-align: center;
+    overflow-wrap: break-word;
+    margin-top: 56px;
+    margin-right: 25px;
+}
+
+.blog_img {
+    width: 502px;
+    height: 266px;
+    margin-top: 32px;
+    margin-left: 34px;
+    margin-right: 61px;
+}
+
+.side_menu {
+    background: #E7CEE3;
+    width: 406px;
+    border: 1px solid #000;
+}
+
+
 
